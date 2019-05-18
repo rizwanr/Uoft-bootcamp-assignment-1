@@ -26,6 +26,8 @@ body {
     font-size: 15px;
     font-family: 'Georgia', Times, Times New Roman, serif;
     position: relative;
+     margin: 0;
+     padding: 0;
 }
 
 #fixed {
